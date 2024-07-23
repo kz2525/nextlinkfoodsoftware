@@ -298,7 +298,55 @@
           ]
       
     },
-     
+    {
+      "name": "Fries",
+      "id": "cat_5da4d5eb231fde0ba1begdgf75252",
+      "products": [
+        {
+          "name": "Chicken Fries",
+          "id": "prod_5dced5e52f2fggfd055td66af5151451",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://media.istockphoto.com/id/488439655/photo/chicken-stripsy.jpg?s=612x612&w=0&k=20&c=pljFTGOs0yZskWrKTaJNTuPjno42HmlfoJRPh4BDkRA=",
+          "tax_percentage": "16.75",
+          "price": "350",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        {
+          "name": "French Fries",
+          "id": "prod_5dceddhdhffdfdhgh5e52f20d66af5151452",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://media.istockphoto.com/id/1586653770/photo/american-french-fries.jpg?s=612x612&w=0&k=20&c=mpIBpMLvAwyPd6Rp6XOFfvil6gE297opzkh83NHUuAw=",
+          "tax_percentage": "16.75",
+          "price": "180",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        },
+        
+        {
+          "name": "Spring Fries",
+          "id": "prod_5dced5trhtrtre55462f5fd420d66af515hfdhf1451",
+          "active": true,
+          "out_of_stock": false,
+          "thumbnail_path": "https://media.istockphoto.com/id/1309602049/photo/sweet-potato-fries-nuts-and-drinks-on-blue-background-with-long-shadows-in-minimal-style.jpg?s=612x612&w=0&k=20&c=lcsU2rb2RcnKQRsp5LDUyr1VJbhvGNrsk8yyVHE6Kxs=",
+          "tax_percentage": "16.75",
+          "price": "100",
+          "old_price": "",
+          "details_link": null,
+          "details": "",
+          "options": []
+        }
+          
+       
+
+ ]
+},
       
         {
           "name": "Savories",
