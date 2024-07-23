@@ -223,7 +223,7 @@
                 {
                   "title": "Glass Size",
                   "values": [{
-                    "value_name": "Chocolate shake",
+                    "value_name": "",
                     "value": "small",
                     "addon_price": ""
                   }
@@ -247,12 +247,12 @@
                     {
                       "title": "Glass Size",
                       "values": [{
-                        "value_name": "Chocolate shake",
+                        "value_name": "",
                         "value": "small",
                         "addon_price": ""
                       },
                         {
-                          "value_name": "Chocolate shake Dryfruit",
+                          "value_name": " Dryfruit",
                          
                           "addon_price": "150"
                         }
@@ -275,12 +275,12 @@
                 {
                   "title": "Glass Size",
                   "values": [{
-                    "value_name": "Chocolate shake",
+                    "value_name": "",
                     "value": "small",
                     "addon_price": ""
                   },
                     {
-                      "value_name": "Chocolate shake Dryfruit",
+                      "value_name": " Dryfruit",
                      
                       "addon_price": "150"
                     }
